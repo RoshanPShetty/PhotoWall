@@ -6,9 +6,18 @@ PhotoWall is a wallpaper application that use PexelsAPI to extract stock free im
 
 * Categories - Categories such Animals, Art, Dark, Minimalism, Nature, etc are provided for the users to choose from. 
 
-<img src = "/1.jpeg">
+<img src = "/4.jpeg">
 
 * Home - The home page always has the latest photos that could be used as wallpapers. Everything is up to date as it extracts data from the Pexels website
+
+<img src = "/2.jpeg">
+
 * Search - Search anything that you want and you will get a stock free picture of it to save. 
+
+<img src = "/1.jpeg">
+
+
 * Stock Free Portait Images - Every image in the app is stock free and is in portrait mode so that it is easier for the users to download the pictures they want. 
+
+<img src = "/3.jpeg">
 
